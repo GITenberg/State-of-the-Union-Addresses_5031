@@ -1,0 +1,25 @@
+_repo: State-of-the-Union-Addresses_5031
+creator:
+  author:
+    agent_name: McKinley, William
+    alias: United States President (1897-1901)
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '1656'
+    url: http://www.gutenberg.org/2009/agents/1656
+    wikipedia: http://en.wikipedia.org/wiki/William_McKinley
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcc 'J'
+- !lcsh 'Presidents -- United States -- Messages'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5031
